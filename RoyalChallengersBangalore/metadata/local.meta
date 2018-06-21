@@ -1,0 +1,6 @@
+[savedsearches/mysearchR]
+access = read : [ * ]
+export = none
+owner = apitest
+version = 7.0.1
+modtime = 1526461701.372786000

@@ -1,0 +1,44 @@
+[props/export_metrics-too_small]
+owner = nobody
+version = 7.0.1
+modtime = 1526293524.537676000
+
+[props/first_install-too_small]
+owner = nobody
+version = 7.0.1
+modtime = 1526293527.145927000
+
+[props/dp_request-too_small]
+owner = admin
+version = 7.0.1
+modtime = 1526623180.435858000
+
+[props/access_tokenIIS-too_small]
+owner = admin
+version = 7.0.1
+modtime = 1526643808.647886000
+
+[props/ISS_GMO-too_small]
+owner = admin
+version = 7.0.1
+modtime = 1526913842.178750000
+
+[props/Health_Status_logs-too_small]
+owner = admin
+version = 7.0.1
+modtime = 1527079097.042549000
+
+[props/json-too_small]
+owner = admin
+version = 7.0.1
+modtime = 1528210366.394218000
+
+[props/splunk_instrumentation-too_small]
+owner = nobody
+version = 7.1.1
+modtime = 1529570033.764135000
+
+[props/splunk_archiver-too_small]
+owner = nobody
+version = 7.1.1
+modtime = 1529572621.901225000

@@ -1,0 +1,39 @@
+[ui-metrics-collector/collector]
+version = 7.1.1
+modtime = 1529583191.278430000
+
+[app/install/is_configured]
+version = 7.1.1
+modtime = 1529583194.213771000
+
+[inputs/http%3A%2F%2Fdb-connect-http-input]
+access = read : [ admin ], write : [ admin ]
+export = none
+owner = nobody
+version = 7.1.1
+modtime = 1529585784.148507000
+
+[dbx_settings/java]
+version = 7.1.1
+modtime = 1529586199.268292000
+
+[identities/PostGresSQL_POC]
+access = read : [ admin, db_connect_admin, db_connect_user ], write : [ admin, db_connect_admin ]
+export = none
+owner = admin
+version = 7.1.1
+modtime = 1529586298.911495000
+
+[db_connections/PostGreSql_POC]
+access = read : [ admin, db_connect_admin, db_connect_user ], write : [ admin, db_connect_admin ]
+export = none
+owner = admin
+version = 7.1.1
+modtime = 1529586375.206547000
+
+[db_inputs/PostGreSQL_Input]
+access = read : [ admin, db_connect_admin, db_connect_user ], write : [ admin, db_connect_admin ]
+export = none
+owner = admin
+version = 7.1.1
+modtime = 1529586576.220399000

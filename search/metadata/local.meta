@@ -1,0 +1,39 @@
+[props/dp_install_test]
+owner = admin
+version = 7.0.1
+modtime = 1526293582.887956000
+
+[props/priceservice_storeslist]
+owner = admin
+version = 7.0.1
+modtime = 1526903536.876449000
+
+[props/core_application1]
+owner = admin
+version = 7.0.1
+modtime = 1528313402.147116000
+
+[props/core_application_2]
+owner = admin
+version = 7.0.1
+modtime = 1528313826.394067000
+
+[props/app1]
+owner = admin
+version = 7.0.1
+modtime = 1528315850.735670000
+
+[props/access_1]
+owner = admin
+version = 7.0.1
+modtime = 1528317097.669543000
+
+[props/Supplier_Request_Logs]
+owner = admin
+version = 7.0.1
+modtime = 1528987432.024841000
+
+[props/Supplier_Order_Logs]
+owner = admin
+version = 7.0.1
+modtime = 1528988091.500287000
